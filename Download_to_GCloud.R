@@ -29,7 +29,7 @@ get_data_from_url <- function(csv_name){
 
 # Descargamos a los datos
 
-# map(csv_list, get_data_from_url)
+map(csv_list, get_data_from_url)
 
 drive_auth(path = "service_account.json")
 
