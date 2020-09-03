@@ -5,7 +5,7 @@
 Un script que descarga los csv.zip del SFP https://datos.sfp.gov.py/data/ y lo sube a [Google Drive](https://drive.google.com/drive/folders/1T-yPOn5pUHFNmA_KdkejpMVfscodd2ve?usp=sharing).
 
 ## Para qué sirve ?
-Resguardar los datos públicos del Paraguay de alteraciones indebidas de los datos y proveer un historial de datos para detectarlas.
+Almacenar copias frecuentes de los datos públicos y almacenarlos para futuros análisis y auditorías.
 
 ## Cómo funciona actualmente ?
 - El scheduler ejecuta al script durante una hora semi-fija del día.
